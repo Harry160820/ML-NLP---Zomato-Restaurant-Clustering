@@ -1,4 +1,4 @@
-## ML-NLP-Zomato-Restaurant-Clustering
+## ML-NLP-Zomato-Restaurant-Clustering and sentiment analysis
 
 # Objectives:
 Cluster Zomato Restaurants: Group restaurants into distinct clusters.
